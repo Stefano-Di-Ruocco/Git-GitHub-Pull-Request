@@ -15,3 +15,10 @@ Sirve principalmente para facilitar la revisión de código y la colaboración. 
 * **Cuello de botella:** Si el equipo tarda mucho en revisar las PR, el desarrollo se detiene y se acumulan cambios pendientes.
 * **Contexto:** A veces es difícil para el revisor entender el contexto completo del cambio sin una buena descripción.
 * **Conflictos:** Cuanto más tiempo pase una PR abierta, más probabilidades hay de que surjan conflictos de fusión con otros cambios.
+
+# GitLab (Versión Main)
+
+GitLab es una herramienta de ciclo de vida DevOps basada en la web.
+Proporciona un administrador de repositorios Git, seguimiento de problemas y funciones de canalización CI/CD, utilizando una licencia de código abierto.
+
+Esta versión del archivo está en la rama MAIN y causará un conflicto con las ramas 'feature'.

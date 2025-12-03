@@ -1,4 +1,4 @@
-# ¿Qué es una Pull Request ?
+# ¿Qué es una Pull Request (PR)?
 
 Una Pull Request (Solicitud de Extracción o Fusión) es un mecanismo utilizado en plataformas de control de versiones como GitHub, GitLab o Bitbucket. Permite a los desarrolladores notificar a los miembros del equipo que han completado una funcionalidad en una rama secundaria y desean fusionar esos cambios en la rama principal (generalmente `main` o `master`).
 
